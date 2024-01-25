@@ -1,0 +1,14 @@
+/home/atle/Kode/C#/BudgetV2/bin/Debug/net7.0/BudgetV2
+/home/atle/Kode/C#/BudgetV2/bin/Debug/net7.0/BudgetV2.deps.json
+/home/atle/Kode/C#/BudgetV2/bin/Debug/net7.0/BudgetV2.runtimeconfig.json
+/home/atle/Kode/C#/BudgetV2/bin/Debug/net7.0/BudgetV2.dll
+/home/atle/Kode/C#/BudgetV2/bin/Debug/net7.0/BudgetV2.pdb
+/home/atle/Kode/C#/BudgetV2/obj/Debug/net7.0/BudgetV2.GeneratedMSBuildEditorConfig.editorconfig
+/home/atle/Kode/C#/BudgetV2/obj/Debug/net7.0/BudgetV2.AssemblyInfoInputs.cache
+/home/atle/Kode/C#/BudgetV2/obj/Debug/net7.0/BudgetV2.AssemblyInfo.cs
+/home/atle/Kode/C#/BudgetV2/obj/Debug/net7.0/BudgetV2.csproj.CoreCompileInputs.cache
+/home/atle/Kode/C#/BudgetV2/obj/Debug/net7.0/BudgetV2.dll
+/home/atle/Kode/C#/BudgetV2/obj/Debug/net7.0/refint/BudgetV2.dll
+/home/atle/Kode/C#/BudgetV2/obj/Debug/net7.0/BudgetV2.pdb
+/home/atle/Kode/C#/BudgetV2/obj/Debug/net7.0/BudgetV2.genruntimeconfig.cache
+/home/atle/Kode/C#/BudgetV2/obj/Debug/net7.0/ref/BudgetV2.dll
